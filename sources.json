@@ -1,0 +1,63 @@
+{
+  "slug": "new-batumi",
+  "name": "New Batumi",
+  "city": "Vilnius",
+  "address": "Žemynos g. 18, Vilnius",
+  "phone": "+37067916955",
+  "facebook": "https://www.facebook.com/profile.php?id=61572975033982",
+  "instagram": "",
+  "wolt": "",
+  "menu": "",
+  "lunch": "https://www.facebook.com/profile.php?id=61572975033982",
+  "reservation": "",
+  "cuisine": "Gruzinų virtuvė",
+  "description": "Gruziniški chinkaliai, šašlykai ir vištienos škmeruli. Atraskite Sakartvelo virtuvės skonius Žemynos gatvėje.",
+  "sources": [
+    "https://www.foodyas.com/LT/Vilnius/533806559821791/New-Batumi%2C",
+    "https://halalfoodle.com/restaurants/lithuania/vilniaus-apskritis/vilnius/new-batumi-zemynos-g-18"
+  ],
+  "photos": [
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/new-batumi/assets/food-01.webp",
+      "source": "https://www.facebook.com/reel/1116610807601039/",
+      "alt": "Gruziniški chinkaliai",
+      "edited": true
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/new-batumi/assets/food-02.webp",
+      "source": "https://www.facebook.com/reel/1377167177438450/",
+      "alt": "Lašišos kepsnys su daržovėmis",
+      "edited": true
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/new-batumi/assets/food-03.webp",
+      "source": "https://www.facebook.com/reel/2023120375056374/",
+      "alt": "Vištienos škmeruli",
+      "edited": false
+    },
+    {
+      "path": "assets/plated-khachapuri.webp",
+      "source": "User-uploaded image(20261023-182958).png",
+      "alt": "Adžarijos chačapuris",
+      "edited": true,
+      "note": "AI-edited visualization: ivory ceramic plate, freshly baked irregular golden crust, softly melted cheese and melting butter, natural window light."
+    },
+    {
+      "path": "assets/plated-khinkali.webp",
+      "source": "User-uploaded image(20261023-182958).png",
+      "alt": "Chinkaliai",
+      "edited": true,
+      "note": "AI-edited visualization, third revision: softer diffuse daylight, reduced shine, subtle irregularities in cooked food and restrained photographic color."
+    },
+    {
+      "path": "assets/plated-aubergine.webp",
+      "source": "User-uploaded image(20261023-182958).png",
+      "alt": "Baklažanų suktinukai su graikiniais riešutais",
+      "edited": true,
+      "note": "AI-edited visualization, third revision: softer diffuse daylight, reduced shine, subtle irregularities in cooked food and restrained photographic color."
+    }
+  ],
+  "notes": "Photos inspected. Imagegen extraction/cleanup from actual restaurant photos, no unrelated food; source urls retained.",
+  "story_title": "Sakartvelo skoniai Vilniuje",
+  "story": "Restorano virtuvėje ruošiami chinkaliai, šašlykai ir česnakiniame padaže patiekiama vištiena. Dienos pietų pasiūlymais komanda dalijasi savo paskyroje."
+}
